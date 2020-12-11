@@ -1,3 +1,5 @@
+THIS IS A BS commit
+
 # Contributing to Invoice Ninja
 
 Thanks for your contributions!
